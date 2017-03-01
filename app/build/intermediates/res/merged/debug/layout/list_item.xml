@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="0dp">
+
+
+    <RadioButton
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:src="@drawable/ic_play"
+        android:background="@drawable/button_background"
+        android:id="@+id/radioPlay"
+        style="@style/ButtonList"
+        android:button="@android:color/transparent"
+        android:drawableLeft="@drawable/selector_play"
+        android:drawableStart="@drawable/selector_play"
+        android:padding="12dp"
+        android:elevation="8dp"/>
+
+
+    <ImageButton
+        android:id="@+id/imageButtonLoad"
+        android:src="@drawable/ic_file_download"
+        style="@style/ButtonList"
+        android:background="@drawable/button_background"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true"
+        android:elevation="8dp"/>
+
+    <TableLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:stretchColumns="*"
+        android:shrinkColumns="*"
+        android:foregroundGravity="center"
+        android:layout_toLeftOf="@+id/imageButtonLoad"
+        android:layout_toStartOf="@+id/imageButtonLoad"
+        android:layout_toRightOf="@+id/radioPlay"
+        android:layout_toEndOf="@+id/radioPlay"
+        android:layout_alignTop="@+id/radioPlay">
+
+
+
+        <TextView
+            android:id="@+id/track"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorTextDark"
+            android:shadowColor="@color/colorGrey"
+            android:shadowRadius="2"
+            android:shadowDx="2"
+            android:shadowDy="2"
+            android:textSize="@dimen/_text_track"
+            android:textStyle="bold"
+            android:gravity="center"
+            android:paddingBottom="5dp"/>
+
+
+        <TextView
+            android:id="@+id/artist"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/colorGrey"
+            android:shadowColor="@color/colorTextDark"
+            android:shadowRadius="1"
+            android:shadowDx="1"
+            android:shadowDy="1"
+            android:textSize="@dimen/_text_artist"
+            android:gravity="center" />
+
+
+
+
+    </TableLayout>
+
+
+</RelativeLayout>

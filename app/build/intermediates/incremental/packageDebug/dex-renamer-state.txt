@@ -1,0 +1,7 @@
+#Tue Feb 28 13:48:05 EET 2017
+base.0=C\:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2b6e085983ffd136f9e4803201eac7c51712de12
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=C\:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_847323c0df28a415d37803f80b5c06fa51300864\\classes.dex
+base.1=C\:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_847323c0df28a415d37803f80b5c06fa51300864
+file.0=C\:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_2b6e085983ffd136f9e4803201eac7c51712de12\\classes.dex
