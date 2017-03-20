@@ -1,50 +1,26 @@
 [
     {
-        "merged": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
-        "source": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
     },
     {
-        "merged": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
-        "source": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout-v11\\notification_media_cancel_action.xml"
+        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
-        "source": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\layout-v11\\notification_media_action.xml"
     },
     {
-        "merged": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
-        "source": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout-v11\\notification_template_big_media_custom.xml"
+        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\layout-v11\\notification_template_big_media.xml"
     },
     {
-        "merged": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
-        "source": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout-v11\\notification_media_cancel_action.xml"
+        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
     },
     {
-        "merged": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
-        "source": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout-v11\\notification_template_big_media.xml"
-    },
-    {
-        "merged": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
-        "source": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout-v11\\notification_template_big_media_custom.xml"
-    },
-    {
-        "merged": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
-        "source": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout-v11\\notification_media_action.xml"
-    },
-    {
-        "merged": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
-        "source": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout-v11\\notification_media_action.xml"
-    },
-    {
-        "merged": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
-        "source": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
-    },
-    {
-        "merged": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
-        "source": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout-v11\\notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
-        "source": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.1.1\\res\\layout-v11\\notification_template_big_media.xml"
+        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
     }
 ]

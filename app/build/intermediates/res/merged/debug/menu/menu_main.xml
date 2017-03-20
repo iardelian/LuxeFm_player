@@ -3,13 +3,8 @@
     xmlns:tools="http://schemas.android.com/tools"
     tools:context="com.ardel.luxfm.MainActivity">
     <item
-        android:id="@+id/rate_app"
+        android:id="@+id/send_mail"
         android:orderInCategory="100"
-        android:title="@string/rate"
+        android:title="@string/said_TY"
         app:showAsAction="never" />
-    <!-- <item
-        android:id="@+id/get_free_pro"
-        android:orderInCategory="100"
-        android:title="@string/get_free_pro"
-        app:showAsAction="never" /> -->
 </menu>

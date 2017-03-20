@@ -21,11 +21,6 @@
             android:background="?attr/colorPrimary"
             app:popupTheme="@style/AppTheme.PopupOverlay">
 
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="wrap_content"
-                android:background="@mipmap/ic_title2"
-                android:id="@+id/imageTitle"/>
             </android.support.v7.widget.Toolbar>
 
 

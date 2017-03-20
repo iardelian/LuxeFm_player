@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\ic_file_download.png",
+        "source": "F:\\LuxFm\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_file_download.png"
+    },
+    {
+        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\ic_play.png",
+        "source": "F:\\LuxFm\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_play.png"
+    },
+    {
+        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\ic_pause.png",
+        "source": "F:\\LuxFm\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\ic_refresh.png",
+        "source": "F:\\LuxFm\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi\\ic_search.png",
+        "source": "F:\\LuxFm\\app\\build\\generated\\res\\pngs\\release\\drawable-xxxhdpi\\ic_search.png"
+    }
+]

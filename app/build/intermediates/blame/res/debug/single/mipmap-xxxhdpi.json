@@ -1,42 +1,10 @@
 [
     {
-        "merged": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_title3.png",
-        "source": "D:\\AndroidProjects\\LuxFm\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_title3.png"
+        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "F:\\LuxFm\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     },
     {
-        "merged": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_title2.png",
-        "source": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_title2.png"
-    },
-    {
-        "merged": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
-        "source": "D:\\AndroidProjects\\LuxFm\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_title.png",
-        "source": "D:\\AndroidProjects\\LuxFm\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_title.png"
-    },
-    {
-        "merged": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_title3.png",
-        "source": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_title3.png"
-    },
-    {
-        "merged": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_logo.png",
-        "source": "D:\\AndroidProjects\\LuxFm\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo.png"
-    },
-    {
-        "merged": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_title2.png",
-        "source": "D:\\AndroidProjects\\LuxFm\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_title2.png"
-    },
-    {
-        "merged": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_title.png",
-        "source": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_title.png"
-    },
-    {
-        "merged": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
-        "source": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_logo.png",
-        "source": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo.png"
+        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_logo.png",
+        "source": "F:\\LuxFm\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo.png"
     }
 ]

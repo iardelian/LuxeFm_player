@@ -13,8 +13,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.Menu;
 import android.view.MenuItem;
-import android.view.View;
-import android.widget.ImageView;
+
 import android.widget.Toast;
 
 public class MainActivity extends AppCompatActivity implements Constants {
@@ -34,14 +33,6 @@ public class MainActivity extends AppCompatActivity implements Constants {
         ft.add(R.id.container, fragmentMain);
         ft.commit();
 
-        ImageView imgLink=(ImageView)findViewById(R.id.imageTitle);
-        imgLink.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View view) {
-                Intent link=new Intent(Intent.ACTION_VIEW, Uri.parse(URL_STRING));
-                startActivity(link);
-            }
-        });
     }
 
 
@@ -61,14 +52,11 @@ public class MainActivity extends AppCompatActivity implements Constants {
 
         //noinspection SimplifiableIfStatement
         switch (id) {
-            case R.id.rate_app:
-                rateApp();
-                return true;
-            /*case R.id.get_free_pro:
+            case R.id.send_mail:
                 AlertDialog.Builder ad;
                 ad = new AlertDialog.Builder(this);
-                ad.setTitle(getString(R.string.get_free_pro));
-                ad.setMessage(getString(R.string.contact_dev_get_free));
+                ad.setTitle(getString(R.string.said_TY));
+                ad.setMessage(getString(R.string.contact_dev));
                 ad.setPositiveButton(getString(R.string.contact_email), new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int arg1) {
                         sendEmail();
@@ -79,30 +67,11 @@ public class MainActivity extends AppCompatActivity implements Constants {
                     }
                 });
                 ad.show();
-                return true;*/
+                return true;
             default:
                 return super.onOptionsItemSelected(item);
         }
 
-    }
-
-    public void rateApp(){
-        Uri uri = Uri.parse("market://details?id=" + getApplicationContext().getPackageName());
-        Intent goToMarket = new Intent(Intent.ACTION_VIEW, uri);
-        // To count with Play market backstack, After pressing back button,
-        // to taken back to our application, we need to add following flags to intent.
-        if (Build.VERSION.SDK_INT >= Build.VERSION_CODES.LOLLIPOP) {
-            goToMarket.addFlags(Intent.FLAG_ACTIVITY_NO_HISTORY |
-                    Intent.FLAG_ACTIVITY_NEW_DOCUMENT |
-                    Intent.FLAG_ACTIVITY_MULTIPLE_TASK);
-        }
-        try {
-            startActivity(goToMarket);
-        } catch (ActivityNotFoundException e) {
-            startActivity(new Intent(Intent.ACTION_VIEW,
-                    Uri.parse("http://play.google.com/store/apps/details?id="
-                            + getApplicationContext().getPackageName())));
-        }
     }
 
     protected void sendEmail() {

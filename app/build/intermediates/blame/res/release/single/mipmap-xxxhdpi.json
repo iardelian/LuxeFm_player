@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\ic_logo.png",
+        "source": "F:\\LuxFm\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_logo.png"
+    },
+    {
+        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi\\ic_launcher.png",
+        "source": "F:\\LuxFm\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    }
+]

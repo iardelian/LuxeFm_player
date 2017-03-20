@@ -1,42 +1,22 @@
 [
     {
-        "merged": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_file_download.png",
-        "source": "D:\\AndroidProjects\\LuxFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_file_download.png"
+        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_pause.png",
+        "source": "F:\\LuxFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pause.png"
     },
     {
-        "merged": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_file_download.png",
-        "source": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_file_download.png"
+        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_refresh.png",
+        "source": "F:\\LuxFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_refresh.png"
     },
     {
-        "merged": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_play.png",
-        "source": "D:\\AndroidProjects\\LuxFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_play.png"
+        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_search.png",
+        "source": "F:\\LuxFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search.png"
     },
     {
-        "merged": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_pause.png",
-        "source": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pause.png"
+        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_play.png",
+        "source": "F:\\LuxFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_play.png"
     },
     {
-        "merged": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_play.png",
-        "source": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_play.png"
-    },
-    {
-        "merged": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_refresh.png",
-        "source": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_refresh.png"
-    },
-    {
-        "merged": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_refresh.png",
-        "source": "D:\\AndroidProjects\\LuxFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_refresh.png"
-    },
-    {
-        "merged": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_search.png",
-        "source": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search.png"
-    },
-    {
-        "merged": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_search.png",
-        "source": "D:\\AndroidProjects\\LuxFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_search.png"
-    },
-    {
-        "merged": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_pause.png",
-        "source": "D:\\AndroidProjects\\LuxFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_pause.png"
+        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi\\ic_file_download.png",
+        "source": "F:\\LuxFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_file_download.png"
     }
 ]

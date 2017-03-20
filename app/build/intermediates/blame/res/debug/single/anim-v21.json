@@ -1,18 +1,10 @@
 [
     {
-        "merged": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
+        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\android\\AndroidStudioProjects\\LuxFm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_in.xml",
-        "source": "D:\\AndroidProjects\\LuxFm\\app\\build\\intermediates\\exploded-aar\\com.android.support\\design\\25.1.1\\res\\anim-v21\\design_bottom_sheet_slide_in.xml"
+        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     }
 ]
