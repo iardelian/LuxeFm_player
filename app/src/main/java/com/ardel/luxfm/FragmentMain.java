@@ -51,7 +51,7 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
         list.setAdapter(trackAdapter);
         trackAdapter.setOnAdapterListener(this);
         progressBar = (ProgressBar) v.findViewById(R.id.progressBar);
-        noInternetActivity = new Intent (getContext(),NoInternetActivity.class);
+        noInternetActivity = new Intent(getContext(), NoInternetActivity.class);
         noInternetActivity.addFlags(Intent.FLAG_ACTIVITY_NO_HISTORY);
         loadText = (TextView) v.findViewById(R.id.loading);
         data.clear();
@@ -174,7 +174,7 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
 
                 alertDialog.setTitle(getString(R.string.downloading));
 
-                alertDialog.setMessage(getString(R.string.download) +" "+ name + "?");
+                alertDialog.setMessage(getString(R.string.download) + " " + name + "?");
 
                 alertDialog.setNegativeButton(getString(R.string.no), new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int which) {
@@ -200,17 +200,17 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
 
     }
 
-    void showProgressIcon(boolean show){
-        if(show) {
+    void showProgressIcon(boolean show) {
+        if (show) {
             progressBar.setVisibility(ProgressBar.VISIBLE);
             loadText.setVisibility(View.VISIBLE);
-        }else{
+        } else {
             progressBar.setVisibility(ProgressBar.INVISIBLE);
             loadText.setVisibility(View.INVISIBLE);
         }
     }
 
-    public void releaseMedia(){
+    public void releaseMedia() {
         if (mediaPlayer != null) {
             mediaPlayer.release();
             mediaPlayer = null;
@@ -219,7 +219,7 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
 
     private void play(final int id, boolean checked) { // checked = false if track is playing, and true if not
 
-        if(isNetworkAvailable()) {
+        if (isNetworkAvailable()) {
 
             final String link = data.get(id).getTrackLink();
 
@@ -265,16 +265,19 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
                 public void onCompletion(MediaPlayer mp) {
                     data.get(id).setChecked(false);
                     try {
-                        if (id+1 < data.size()) {
-                            data.get(id+1).setChecked(true);
+                        if (id + 1 < data.size()) {
+                            data.get(id + 1).setChecked(true);
                             //FIXME CHECK IF I NEED THIS CHECKING
-                            //releaseMedia();
-                            play(id+1, true);
+                            releaseMedia();
+                            play(id + 1, true);
+                            trackAdapter.notifyDataSetChanged();
                         }
                     } catch (IndexOutOfBoundsException e) {
                         e.printStackTrace();
+                        releaseMedia();
                     }
                     trackAdapter.notifyDataSetChanged();
+
                 }
 
             });
@@ -285,13 +288,12 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
                 e.printStackTrace();
                 Toast.makeText(getContext(), getString(R.string.unable_play_song), Toast.LENGTH_SHORT).show();
             }
-        }else{
+        } else {
             releaseMedia();
             super.onStop();
             startActivity(noInternetActivity);
         }
 
     }
-
-
+    
 }
