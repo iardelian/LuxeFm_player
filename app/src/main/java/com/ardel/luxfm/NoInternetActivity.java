@@ -14,7 +14,6 @@ import java.io.IOException;
 public class NoInternetActivity extends AppCompatActivity implements Constants {
 
     ImageButton refreshInternet;
-    Boolean doubleBackToExitPressedOnce = false;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -27,6 +26,7 @@ public class NoInternetActivity extends AppCompatActivity implements Constants {
                 if (isNetworkAvailable()){
                     Intent intent = new Intent(NoInternetActivity.this,MainActivity.class);
                     startActivity(intent);
+                    finish();
                 }else{
                     Toast.makeText(NoInternetActivity.this,getString(R.string.internet_error),Toast.LENGTH_SHORT).show();
                 }
@@ -44,21 +44,8 @@ public class NoInternetActivity extends AppCompatActivity implements Constants {
 
     @Override
     public void onBackPressed() {
-        if (!doubleBackToExitPressedOnce) {
-            this.doubleBackToExitPressedOnce = true;
-            Toast.makeText(this,getResources().getString(R.string.exit_dialog),
-                    Toast.LENGTH_SHORT).show();
-
-            new Handler().postDelayed(new Runnable() {
-
-                @Override
-                public void run() {
-                    doubleBackToExitPressedOnce = false;
-                }
-            }, 2000);
-        } else {
             super.onBackPressed();
-        }
+            finish();
     }
 
 }
