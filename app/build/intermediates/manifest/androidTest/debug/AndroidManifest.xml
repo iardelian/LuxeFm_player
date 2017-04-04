@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ardel.luxfm.test" >
+    package="com.ardelian.luxefm.test" >
 
     <uses-sdk
         android:minSdkVersion="16"
@@ -10,8 +10,8 @@
         android:name="android.support.test.runner.AndroidJUnitRunner"
         android:functionalTest="false"
         android:handleProfiling="false"
-        android:label="Tests for com.ardel.luxfm"
-        android:targetPackage="com.ardel.luxfm" />
+        android:label="Tests for com.ardelian.luxefm"
+        android:targetPackage="com.ardelian.luxefm" />
 
     <application>
         <uses-library android:name="android.test.runner" />

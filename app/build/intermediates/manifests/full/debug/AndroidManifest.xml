@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ardel.luxfm"
+    package="com.ardelian.luxefm"
     android:versionCode="1"
     android:versionName="1.0" >
 
@@ -12,6 +12,7 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission android:name="android.permission.INTERNET" />
 
     <application
@@ -21,7 +22,7 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme" >
         <activity
-            android:name="com.ardel.luxfm.SplashActivity"
+            android:name="com.ardelian.luxefm.SplashActivity"
             android:screenOrientation="portrait"
             android:theme="@style/SplashTheme" >
             <intent-filter>
@@ -31,13 +32,13 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.ardel.luxfm.MainActivity"
+            android:name="com.ardelian.luxefm.MainActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait"
             android:theme="@style/AppTheme.NoActionBar" >
         </activity>
         <activity
-            android:name="com.ardel.luxfm.NoInternetActivity"
+            android:name="com.ardelian.luxefm.NoInternetActivity"
             android:noHistory="true"
             android:theme="@style/AppTheme.NoActionBar" >
         </activity>

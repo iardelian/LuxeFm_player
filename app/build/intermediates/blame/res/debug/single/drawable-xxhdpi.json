@@ -4,6 +4,26 @@
         "source": "F:\\LuxFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_play.png"
     },
     {
+        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_refresh.png",
+        "source": "F:\\NEW Google Play\\LuxFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_pause.png",
+        "source": "F:\\NEW Google Play\\LuxeFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_refresh.png",
+        "source": "F:\\NEW Google Play\\LuxeFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_search.png",
+        "source": "F:\\NEW Google Play\\LuxFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_file_download.png",
+        "source": "F:\\NEW Google Play\\LuxeFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_file_download.png"
+    },
+    {
         "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_search.png",
         "source": "F:\\LuxFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_search.png"
     },
@@ -16,7 +36,27 @@
         "source": "F:\\LuxFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_pause.png"
     },
     {
+        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_pause.png",
+        "source": "F:\\NEW Google Play\\LuxFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_pause.png"
+    },
+    {
+        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_play.png",
+        "source": "F:\\NEW Google Play\\LuxFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_play.png"
+    },
+    {
+        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_play.png",
+        "source": "F:\\NEW Google Play\\LuxeFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_play.png"
+    },
+    {
         "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_refresh.png",
         "source": "F:\\LuxFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_search.png",
+        "source": "F:\\NEW Google Play\\LuxeFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_search.png"
+    },
+    {
+        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_file_download.png",
+        "source": "F:\\NEW Google Play\\LuxFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_file_download.png"
     }
 ]

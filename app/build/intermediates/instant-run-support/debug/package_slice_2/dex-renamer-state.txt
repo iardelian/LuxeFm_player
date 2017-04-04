@@ -1,4 +1,4 @@
-#Mon Mar 20 09:59:16 EET 2017
-base.0=F\:\\LuxFm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
+#Mon Apr 03 13:12:56 EEST 2017
+base.0=F\:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2
 renamed.0=classes.dex
-file.0=F\:\\LuxFm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex
+file.0=F\:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\5\\slice_2\\classes.dex

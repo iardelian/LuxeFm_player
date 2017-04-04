@@ -3,21 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="F:\LuxFm\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jar="F:\NEW Google Play\LuxeFm\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
         sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="F:\LuxFm\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_465efc3129a5d6d970e66c18a955a82ffd583f5d\classes.dex" />
+        <dex dex="F:\NEW Google Play\LuxeFm\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_c9a5795f941647547fd54a99353620f226cf1fd6\classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="F:\LuxFm\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jar="F:\NEW Google Play\LuxeFm\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="25.0.0"
-        sha1="8e914937a3b6ebd042276438a42c17e650e4476a">
-        <dex dex="F:\LuxFm\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_011c873f094b7d0894454ebfe0b0d4bfd2632165\classes.dex" />
+        sha1="019624431ecaf938a2d88ac2cbad3d76225e8e2b">
+        <dex dex="F:\NEW Google Play\LuxeFm\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_6a7c18fbca01f3246be41090eb389c4211e9aaa4\classes.dex" />
     </item>
 
 </items>

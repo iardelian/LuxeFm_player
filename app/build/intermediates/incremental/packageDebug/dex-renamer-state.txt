@@ -1,7 +1,4 @@
-#Mon Mar 20 09:59:18 EET 2017
-base.0=F\:\\LuxFm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_465efc3129a5d6d970e66c18a955a82ffd583f5d
-renamed.1=classes.dex
-renamed.0=classes2.dex
-file.1=F\:\\LuxFm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_011c873f094b7d0894454ebfe0b0d4bfd2632165\\classes.dex
-base.1=F\:\\LuxFm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_011c873f094b7d0894454ebfe0b0d4bfd2632165
-file.0=F\:\\LuxFm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_465efc3129a5d6d970e66c18a955a82ffd583f5d\\classes.dex
+#Tue Apr 04 14:44:01 EEST 2017
+base.0=F\:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=F\:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\1f\\main\\classes.dex
