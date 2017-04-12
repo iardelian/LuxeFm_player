@@ -1,194 +1,66 @@
 [
     {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\anim\\design_snackbar_out.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\anim\\design_snackbar_in.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f4e36fb89f31aa067bcf485170f393ba992990bc\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f4e36fb89f31aa067bcf485170f393ba992990bc\\output\\res\\anim\\design_snackbar_in.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_slide_in_top.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\anim\\abc_popup_exit.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_slide_out_bottom.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\anim\\abc_fade_out.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f4e36fb89f31aa067bcf485170f393ba992990bc\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_slide_out_top.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\anim\\abc_slide_out_top.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_popup_enter.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\anim\\abc_popup_enter.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_fade_in.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f4e36fb89f31aa067bcf485170f393ba992990bc\\output\\res\\anim\\design_fab_out.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_popup_exit.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f4e36fb89f31aa067bcf485170f393ba992990bc\\output\\res\\anim\\design_snackbar_out.xml"
     },
     {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\anim\\design_snackbar_in.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\anim\\abc_slide_in_bottom.xml"
     },
     {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\anim\\abc_fade_in.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\anim\\abc_slide_out_bottom.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\anim\\design_fab_in.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\anim\\abc_slide_in_top.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_fade_in.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_slide_out_top.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\anim\\design_fab_in.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\anim\\design_fab_in.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\anim\\design_fab_out.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_fade_in.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\anim\\design_snackbar_out.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\anim\\design_fab_out.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_fade_out.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\anim\\design_fab_out.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_popup_enter.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_slide_in_top.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\anim\\design_snackbar_out.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_slide_out_bottom.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_popup_exit.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\anim\\abc_slide_in_bottom.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\anim\\design_snackbar_in.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f4e36fb89f31aa067bcf485170f393ba992990bc\\output\\res\\anim\\design_fab_in.xml"
     }
 ]

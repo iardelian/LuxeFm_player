@@ -1,14 +1,6 @@
 [
     {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\layout-sw600dp-v13\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f4e36fb89f31aa067bcf485170f393ba992990bc\\output\\res\\layout-sw600dp-v13\\design_layout_snackbar.xml"
     }
 ]

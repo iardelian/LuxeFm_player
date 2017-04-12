@@ -2808,7 +2808,6 @@ containing a value of this type.
         public static final int search_src_text=0x7f0d006d;
         public static final int search_voice_btn=0x7f0d0071;
         public static final int select_dialog_listview=0x7f0d0072;
-        public static final int send_mail=0x7f0d00a3;
         public static final int shortcut=0x7f0d005c;
         public static final int showCustom=0x7f0d0015;
         public static final int showHome=0x7f0d0016;
@@ -2930,9 +2929,6 @@ containing a value of this type.
         public static final int select_dialog_multichoice_material=0x7f04003e;
         public static final int select_dialog_singlechoice_material=0x7f04003f;
         public static final int support_simple_spinner_dropdown_item=0x7f040040;
-    }
-    public static final class menu {
-        public static final int menu_main=0x7f0e0000;
     }
     public static final class mipmap {
         public static final int ic_launcher=0x7f030000;

@@ -1,26 +1,10 @@
 [
     {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_logo.png",
-        "source": "F:\\LuxFm\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo.png"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_logo.png",
+        "source": "G:\\NEW Google Play\\LuxeFm\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo.png"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
-        "source": "F:\\NEW Google Play\\LuxeFm\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_logo.png",
-        "source": "F:\\NEW Google Play\\LuxeFm\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo.png"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
-        "source": "F:\\LuxFm\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
-        "source": "F:\\NEW Google Play\\LuxFm\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_logo.png",
-        "source": "F:\\NEW Google Play\\LuxFm\\app\\src\\main\\res\\mipmap-xhdpi\\ic_logo.png"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi\\ic_launcher.png",
+        "source": "G:\\NEW Google Play\\LuxeFm\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
     }
 ]

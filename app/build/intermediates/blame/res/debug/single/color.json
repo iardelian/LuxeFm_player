@@ -1,266 +1,90 @@
 [
     {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_tint_switch_track.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
     },
     {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\color\\design_error.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f4e36fb89f31aa067bcf485170f393ba992990bc\\output\\res\\color\\design_error.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_tint_btn_checkable.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\color\\abc_primary_text_material_light.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\color\\design_error.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\color\\abc_primary_text_material_dark.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_tint_edittext.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\color\\switch_thumb_material_light.xml"
     },
     {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_btn_colored_text_material.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\color\\abc_btn_colored_text_material.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\f4e36fb89f31aa067bcf485170f393ba992990bc\\output\\res\\color\\design_tint_password_toggle.xml"
     },
     {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\color\\abc_tint_seek_thumb.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_tint_default.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\color\\abc_tint_switch_track.xml"
     },
     {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\color\\design_tint_password_toggle.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\color\\switch_thumb_material_dark.xml"
     },
     {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_tint_switch_thumb.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\color\\abc_secondary_text_material_light.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_primary_text_material_dark.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_btn_colored_text_material.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\color\\abc_tint_edittext.xml"
     },
     {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\color\\abc_secondary_text_material_dark.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\color\\design_tint_password_toggle.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\color\\abc_tint_spinner.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_search_url_text.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\switch_thumb_material_light.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\color\\abc_search_url_text.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_primary_text_material_light.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\color\\abc_tint_btn_checkable.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_tint_seek_thumb.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\color\\abc_hint_foreground_material_light.xml"
     },
     {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_hint_foreground_material_light.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\color\\abc_tint_switch_thumb.xml"
     },
     {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_light.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\switch_thumb_material_light.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_tint_default.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_tint_edittext.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_error.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\color\\design_error.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_dark.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_primary_text_material_dark.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_dark.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_tint_spinner.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_tint_default.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_disable_only_material_light.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_primary_text_disable_only_material_light.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_light.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_hint_foreground_material_light.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_tint_spinner.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_spinner.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_tint_spinner.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_light.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_secondary_text_material_light.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_track.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_tint_switch_track.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_secondary_text_material_dark.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_secondary_text_material_dark.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_text_material.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_btn_colored_text_material.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_search_url_text.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_edittext.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_tint_edittext.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_btn_colored_borderless_text_material.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_btn_colored_borderless_text_material.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_btn_checkable.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_tint_btn_checkable.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\switch_thumb_material_dark.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\switch_thumb_material_dark.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\design_tint_password_toggle.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\color\\design_tint_password_toggle.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_hint_foreground_material_dark.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_hint_foreground_material_dark.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_seek_thumb.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_tint_seek_thumb.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_search_url_text.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_search_url_text.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_tint_switch_thumb.xml"
-    },
-    {
-        "merged": "F:\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_primary_text_material_light.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_primary_text_material_light.xml"
-    },
-    {
-        "merged": "F:\\NEW Google Play\\LuxFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_switch_thumb.xml",
-        "source": "C:\\Users\\cokp\\.android\\build-cache\\989572f9db2f31f26a0e565b9a0fd817550e36e3\\output\\res\\color\\abc_tint_switch_thumb.xml"
+        "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\color\\abc_tint_default.xml",
+        "source": "C:\\Users\\Admin\\.android\\build-cache\\e36b7a0d964d0a5d30a3972b31bdeebc2681885f\\output\\res\\color\\abc_tint_default.xml"
     }
 ]

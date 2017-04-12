@@ -4,8 +4,6 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-import java.io.IOException;
-
 public class SplashActivity extends AppCompatActivity implements Constants{
 
     @Override
@@ -19,20 +17,11 @@ public class SplashActivity extends AppCompatActivity implements Constants{
         } catch (InterruptedException e) {
             e.printStackTrace();
         }
-        if(isNetworkAvailable()) {
+        if (new ConnectivityStatus(getApplicationContext()).connectionAccess()) {
             startActivity(intentMain);
         }else{
             startActivity(intentNoInternet);
         }
         finish();
-    }
-
-    public boolean isNetworkAvailable() {
-        try {
-            return (Runtime.getRuntime().exec(PING_GOOGLE).waitFor() == 0);
-        } catch (InterruptedException | IOException e) {
-            e.printStackTrace();
-        }
-        return false;
     }
 }
