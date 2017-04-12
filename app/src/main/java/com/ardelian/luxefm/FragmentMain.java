@@ -25,7 +25,6 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
-
 import java.io.IOException;
 import java.util.ArrayList;
 
@@ -63,14 +62,14 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
 
 
 
-    public boolean isNetworkAvailable() {
+    /*public boolean isNetworkAvailable() {
         try {
-            return (Runtime.getRuntime().exec(PING_GOOGLE).waitFor() == 0);
+            return (Runtime.getRuntime().exec(PING_GOOGLE).waitFor() < 0);
         } catch (InterruptedException | IOException e) {
             e.printStackTrace();
         }
         return false;
-    }
+    }*/
 
 
     private void getFileList() {
@@ -80,7 +79,7 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
             at.cancel(false);
         }
 
-        if (isNetworkAvailable()) {
+        if (new ConnectivityStatus(getContext()).connectionAccess()) {
 
             at = new AsyncTask<String, Integer, Void>() {
 
@@ -135,7 +134,6 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
         } else {
             releaseMedia();
             super.onStop();
-            Log.e("NO INTERTNET"," 1");
             startActivity(noInternetActivity);
         }
 
@@ -222,7 +220,7 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
 
     private void play(final int id, boolean checked) { // checked = false if track is playing, and true if not
 
-        if (isNetworkAvailable()) {
+        if (new ConnectivityStatus(getContext()).connectionAccess()) {
 
             final String link = data.get(id).getTrackLink();
 
@@ -293,8 +291,8 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
             }
         } else {
             releaseMedia();
+            data.get(id).setChecked(false);
             super.onStop();
-            Log.e("NO INTERTNET"," 2");
             startActivity(noInternetActivity);
         }
 
