@@ -1,6 +1,6 @@
 package com.ardelian.luxefm;
 
-public interface Constants {
+interface Constants {
     String URL_STRING = "http://lux.fm/player/allMusic.do";
     String PREF_SITE = "http://lux.fm/";
     String USERAGENT = "Mozilla/5.0 (Windows NT 10.0; Win64; x64) \" +\n" +
@@ -10,9 +10,8 @@ public interface Constants {
     String EXTRA_LINK = "link";
     String EXTRA_ID = "id";
     String PING_GOOGLE = "ping -c 1 google.com";
-    String DEV_EMAIL = "ardelyan.i@gmail.com";
-    String MAIL_TIITLE = "Thank you, dear developer";
     int DATA = 1;
     int PLAY = 0;
     int LOAD = 1;
 }
+
