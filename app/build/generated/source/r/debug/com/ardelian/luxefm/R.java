@@ -2995,7 +2995,7 @@ containing a value of this type.
         public static final int search_menu_title=0x7f070013;
         public static final int send_mail=0x7f070027;
         public static final int status_bar_notification_info_overflow=0x7f070014;
-        public static final int unable_download_song=0x7f070028;
+        public static final int unable_download_file=0x7f070028;
         public static final int unable_play_song=0x7f070029;
         public static final int yes=0x7f07002a;
     }

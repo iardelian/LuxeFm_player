@@ -13,7 +13,7 @@ class MainHandler extends Handler implements Constants {
         void onHandleString(String title, String link);
     }
 
-    public void setOnHandleListener(OnHandleListener l) {
+    void setOnHandleListener(OnHandleListener l) {
         this.listener = l;
     }
     @Override

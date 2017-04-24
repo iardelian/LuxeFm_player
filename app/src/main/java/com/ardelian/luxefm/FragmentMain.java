@@ -129,6 +129,7 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
         } else {
             releaseMedia();
             super.onStop();
+            Log.e("LineError: ", "132");
             startActivity(noInternetActivity);
         }
 
@@ -287,6 +288,7 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
             releaseMedia();
             data.get(id).setChecked(false);
             super.onStop();
+            // FIXME unusual "noInternetActivity" behavior
             startActivity(noInternetActivity);
         }
 
