@@ -22,7 +22,7 @@ class ConnectivityStatus implements Constants {
 
     private boolean hasInternetAccess() {
         try {
-            return (Runtime.getRuntime().exec(PING_GOOGLE).waitFor() < 1500);
+            return (Runtime.getRuntime().exec(PING_GOOGLE).waitFor() == 0);
         } catch (InterruptedException | IOException e) {
             e.printStackTrace();
         }

@@ -25,6 +25,7 @@ import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
+
 import java.io.IOException;
 import java.util.ArrayList;
 
@@ -61,17 +62,6 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
     }
 
 
-
-    /*public boolean isNetworkAvailable() {
-        try {
-            return (Runtime.getRuntime().exec(PING_GOOGLE).waitFor() < 0);
-        } catch (InterruptedException | IOException e) {
-            e.printStackTrace();
-        }
-        return false;
-    }*/
-
-
     private void getFileList() {
 
 
@@ -105,10 +95,15 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
                         Elements elements = document.select(".playlist-item");
                         for (Element element : elements) {
 
-                            trackTitle = element.select("[id~=^song-name-right-[0-9]+$]").attr("value") + " - " +
-                                    element.select("[id~=^song-name-left-[0-9]+$]").attr("value");
+                            trackTitle = element.select("[id~=^song-name-right-[0-9]+$]")
+                                    .attr("value") + " - " +
+                                    element.select("[id~=^song-name-left-[0-9]+$]")
+                                            .attr("value");
 
-                            trackLink = PREF_SITE + element.select("[id~=^song-path-[0-9]+$]").attr("value").replace(" ", "%20");
+                            trackLink = PREF_SITE + element
+                                    .select("[id~=^song-path-[0-9]+$]")
+                                    .attr("value")
+                                    .replace(" ", "%20");
 
                             Message msg = new Message();
                             Bundle bundle = new Bundle();
@@ -187,10 +182,10 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
                     public void onClick(DialogInterface dialog, int which) {
                         try {
                             startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse(link)));
-                            releaseMedia();
                         } catch (Exception e) {
                             e.printStackTrace();
-                            Toast.makeText(getContext(), getString(R.string.unable_download_song), Toast.LENGTH_SHORT).show();
+                            Toast.makeText(getContext(), getString(R.string.unable_download_file),
+                                    Toast.LENGTH_SHORT).show();
                         }
 
                     }
@@ -268,7 +263,6 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
                     try {
                         if (id + 1 < data.size()) {
                             data.get(id + 1).setChecked(true);
-                            //FIXME CHECK IF I NEED THIS CHECKING
                             releaseMedia();
                             play(id + 1, true);
                             trackAdapter.notifyDataSetChanged();

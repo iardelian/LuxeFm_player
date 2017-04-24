@@ -12,12 +12,13 @@ public class SplashActivity extends AppCompatActivity implements Constants{
 
         Intent intentMain = new Intent(this, MainActivity.class);
         Intent intentNoInternet = new Intent(this, NoInternetActivity.class);
-        try {
-            Thread.sleep(300);
-        } catch (InterruptedException e) {
-            e.printStackTrace();
-        }
+
         if (new ConnectivityStatus(getApplicationContext()).connectionAccess()) {
+            try {
+                Thread.sleep(300);
+            } catch (InterruptedException e) {
+                e.printStackTrace();
+            }
             startActivity(intentMain);
         }else{
             startActivity(intentNoInternet);

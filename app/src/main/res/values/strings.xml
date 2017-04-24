@@ -12,7 +12,7 @@
     <string name="download">Download</string>
     <string name="yes">Yes</string>
     <string name="no">No</string>
-    <string name="unable_download_song">Unable to download this song</string>
+    <string name="unable_download_file">Unable to download this file</string>
     <string name="unable_play_song">Unable to play this song</string>
     <string name="cancel">Cancel</string>
     <string name="contact_email">Leave a comment</string>

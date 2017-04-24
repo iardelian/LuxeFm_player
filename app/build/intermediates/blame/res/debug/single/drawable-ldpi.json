@@ -4,12 +4,28 @@
         "source": "G:\\NEW Google Play\\LuxeFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_pause.png"
     },
     {
+        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_pause.png",
+        "source": "F:\\NEW Google Play\\LuxeFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_pause.png"
+    },
+    {
+        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_search.png",
+        "source": "F:\\NEW Google Play\\LuxeFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search.png"
+    },
+    {
         "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_search.png",
         "source": "G:\\NEW Google Play\\LuxeFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_search.png"
     },
     {
+        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_play.png",
+        "source": "F:\\NEW Google Play\\LuxeFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_play.png"
+    },
+    {
         "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_play.png",
         "source": "G:\\NEW Google Play\\LuxeFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_play.png"
+    },
+    {
+        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_refresh.png",
+        "source": "F:\\NEW Google Play\\LuxeFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_refresh.png"
     },
     {
         "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_file_download.png",
@@ -18,5 +34,9 @@
     {
         "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_refresh.png",
         "source": "G:\\NEW Google Play\\LuxeFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_refresh.png"
+    },
+    {
+        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\ic_file_download.png",
+        "source": "F:\\NEW Google Play\\LuxeFm\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_file_download.png"
     }
 ]
