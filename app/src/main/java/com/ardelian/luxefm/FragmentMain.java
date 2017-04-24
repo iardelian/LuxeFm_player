@@ -11,6 +11,8 @@ import android.os.AsyncTask;
 import android.os.Bundle;
 import android.os.Message;
 import android.support.v4.app.Fragment;
+import android.telephony.PhoneStateListener;
+import android.telephony.TelephonyManager;
 import android.util.Log;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -29,7 +31,7 @@ import org.jsoup.select.Elements;
 import java.io.IOException;
 import java.util.ArrayList;
 
-public class FragmentMain extends Fragment implements Constants, MainHandler.OnHandleListener, TrackAdapter.onAdapterListener {
+public class FragmentMain extends Fragment implements Constants, MainHandler.OnHandleListener, TrackAdapter.onAdapterListener, AudioManager.OnAudioFocusChangeListener {
 
     ArrayList<ListItem> data = new ArrayList<>();
     private static MainHandler h;
@@ -40,6 +42,7 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
     int playingSong = -1;
     ProgressBar progressBar;
     Intent noInternetActivity;
+    private AudioManager mAudioManager;
 
     public View onCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState) {
         View v = inflater.inflate(R.layout.fragment_main, container, false);
@@ -55,10 +58,18 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
         noInternetActivity = new Intent(getContext(), NoInternetActivity.class);
         noInternetActivity.addFlags(Intent.FLAG_ACTIVITY_NO_HISTORY);
         loadText = (TextView) v.findViewById(R.id.loading);
+        mAudioManager = (AudioManager) context.getSystemService(Context.AUDIO_SERVICE);
+        mAudioManager.requestAudioFocus(this, AudioManager.STREAM_MUSIC, AudioManager.AUDIOFOCUS_GAIN);
         data.clear();
         getFileList();
 
         return v;
+    }
+
+    @Override
+    public void onDestroy() {
+        super.onDestroy();
+        mAudioManager.abandonAudioFocus(this);
     }
 
 
@@ -294,4 +305,14 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
 
     }
 
+    @Override
+    public void onAudioFocusChange(int focusChange) {
+        if (mediaPlayer != null) {
+            if (focusChange <= 0) {
+                mediaPlayer.pause();
+            } else {
+                mediaPlayer.start();
+            }
+        }
+    }
 }

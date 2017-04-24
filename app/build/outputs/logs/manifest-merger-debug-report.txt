@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:2:1-43:12
+ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:2:1-41:12
 	package
 		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:3:5-34
 		INJECTED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml
@@ -29,16 +29,12 @@ uses-permission#android.permission.ACCESS_NETWORK_STATE
 ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:8:5-78
 	android:name
 		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:8:22-76
-uses-permission#android.permission.READ_PHONE_STATE
-ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:9:5-75
-	android:name
-		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:9:22-72
 uses-permission#android.permission.INTERNET
-ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:10:5-66
+ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:9:5-66
 	android:name
-		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:10:22-64
+		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:9:22-64
 application
-ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:13:5-41:19
+ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:12:5-39:19
 MERGED from [com.android.support:design:25.1.1] C:\Users\cokp\.android\build-cache\f77dde227ce6e296ff199b5c6db89faab0fae505\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\cokp\.android\build-cache\989572f9db2f31f26a0e565b9a0fd817550e36e3\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\cokp\.android\build-cache\e9e00f94e7dfac0320bcd7f63bf69b200d64f7cf\output\AndroidManifest.xml:22:5-20
@@ -51,51 +47,51 @@ MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\cokp\.android\
 MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\cokp\.android\build-cache\1acde90ba3e969cd5b232ebdcbf88904e3372d2d\output\AndroidManifest.xml:25:5-20
 MERGED from [com.android.support:support-compat:25.1.1] C:\Users\cokp\.android\build-cache\64eab9fcd24e9c742388954c7f691f38102b2ed6\output\AndroidManifest.xml:25:5-20
 	android:label
-		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:16:9-41
+		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:15:9-41
 	android:supportsRtl
-		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:17:9-35
+		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:16:9-35
 	android:allowBackup
-		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:14:9-35
+		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:13:9-35
 	android:icon
-		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:15:9-43
+		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:14:9-43
 	android:theme
-		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:18:9-40
+		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:17:9-40
 activity#com.ardelian.luxefm.SplashActivity
-ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:19:9-28:20
+ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:18:9-27:20
 	android:screenOrientation
-		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:22:13-49
+		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:21:13-49
 	android:theme
-		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:21:13-47
+		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:20:13-47
 	android:name
-		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:20:13-62
+		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:19:13-62
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:23:13-27:29
+ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:22:13-26:29
 action#android.intent.action.MAIN
-ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:24:17-69
+ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:23:17-69
 	android:name
-		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:24:25-66
+		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:23:25-66
 category#android.intent.category.LAUNCHER
-ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:26:17-77
+ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:25:17-77
 	android:name
-		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:26:27-74
+		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:25:27-74
 activity#com.ardelian.luxefm.MainActivity
-ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:29:9-34:20
+ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:28:9-33:20
 	android:screenOrientation
-		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:33:13-49
+		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:32:13-49
 	android:label
-		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:31:13-45
+		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:30:13-45
 	android:theme
-		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:32:13-56
+		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:31:13-56
 	android:name
-		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:30:13-60
+		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:29:13-60
 activity#com.ardelian.luxefm.NoInternetActivity
-ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:35:9-40:20
+ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:34:9-38:20
 	android:noHistory
-		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:37:13-37
+		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:36:13-37
 	android:theme
-		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:38:13-56
+		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:37:13-56
 	android:name
-		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:36:13-66
+		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:35:13-66
 uses-sdk
 INJECTED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 MERGED from [com.android.support:design:25.1.1] C:\Users\cokp\.android\build-cache\f77dde227ce6e296ff199b5c6db89faab0fae505\output\AndroidManifest.xml:21:5-23:62
