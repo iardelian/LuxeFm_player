@@ -630,7 +630,7 @@
     <string name="search_menu_title">Search</string>
     <string name="send_mail">Send mail…</string>
     <string name="status_bar_notification_info_overflow">999+</string>
-    <string name="unable_download_song">Unable to download this song</string>
+    <string name="unable_download_file">Unable to download this file</string>
     <string name="unable_play_song">Unable to play this song</string>
     <string name="yes">Yes</string>
     <style name="AlertDialog.AppCompat" parent="Base.AlertDialog.AppCompat"/>

@@ -179,12 +179,9 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
             case LOAD:
 
                 AlertDialog.Builder alertDialog = new AlertDialog.Builder(getContext());
-
-                alertDialog.setTitle(getString(R.string.downloading));
-
-                alertDialog.setMessage(getString(R.string.download) + " " + name + "?");
-
-                alertDialog.setNegativeButton(getString(R.string.no), new DialogInterface.OnClickListener() {
+                alertDialog.setTitle(getString(R.string.downloading))
+                        .setMessage(getString(R.string.download) + " " + name + "?")
+                        .setNegativeButton(getString(R.string.no), new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int which) {
                         dialog.cancel();
                     }
@@ -225,7 +222,7 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
         }
     }
 
-    private void play(final int id, boolean checked) { // checked = false if track is playing, and true if not
+    private void play(final int id, boolean checked) {
 
         if (new ConnectivityStatus(getContext()).connectionAccess()) {
 
@@ -299,7 +296,7 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
             releaseMedia();
             data.get(id).setChecked(false);
             super.onStop();
-            // FIXME unusual "noInternetActivity" behavior
+            // sometimes something bad happens here =(
             startActivity(noInternetActivity);
         }
 

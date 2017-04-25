@@ -1009,7 +1009,7 @@ int string said_TY 0x7f070026
 int string search_menu_title 0x7f070013
 int string send_mail 0x7f070027
 int string status_bar_notification_info_overflow 0x7f070014
-int string unable_download_song 0x7f070028
+int string unable_download_file 0x7f070028
 int string unable_play_song 0x7f070029
 int string yes 0x7f07002a
 int style AlertDialog_AppCompat 0x7f0900a2

@@ -6,5 +6,13 @@
     {
         "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi\\ic_logo.png",
         "source": "G:\\NEW Google Play\\LuxeFm\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo.png"
+    },
+    {
+        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi\\ic_launcher.png",
+        "source": "F:\\NEW Google Play\\LuxeFm\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi\\ic_logo.png",
+        "source": "F:\\NEW Google Play\\LuxeFm\\app\\src\\main\\res\\mipmap-mdpi\\ic_logo.png"
     }
 ]

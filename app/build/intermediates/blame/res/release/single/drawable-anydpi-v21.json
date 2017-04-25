@@ -8,8 +8,28 @@
         "source": "G:\\NEW Google Play\\LuxeFm\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_search.xml"
     },
     {
+        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\ic_search.xml",
+        "source": "F:\\NEW Google Play\\LuxeFm\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_search.xml"
+    },
+    {
+        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\design_ic_visibility_off.xml",
+        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\drawable-anydpi-v21\\design_ic_visibility_off.xml"
+    },
+    {
         "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\ic_pause.xml",
         "source": "G:\\NEW Google Play\\LuxeFm\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_pause.xml"
+    },
+    {
+        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\design_ic_visibility.xml",
+        "source": "C:\\Users\\cokp\\.android\\build-cache\\f77dde227ce6e296ff199b5c6db89faab0fae505\\output\\res\\drawable-anydpi-v21\\design_ic_visibility.xml"
+    },
+    {
+        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\ic_pause.xml",
+        "source": "F:\\NEW Google Play\\LuxeFm\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_pause.xml"
+    },
+    {
+        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\ic_file_download.xml",
+        "source": "F:\\NEW Google Play\\LuxeFm\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_file_download.xml"
     },
     {
         "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\ic_play.xml",
@@ -22,6 +42,14 @@
     {
         "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\ic_file_download.xml",
         "source": "G:\\NEW Google Play\\LuxeFm\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_file_download.xml"
+    },
+    {
+        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\ic_refresh.xml",
+        "source": "F:\\NEW Google Play\\LuxeFm\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_refresh.xml"
+    },
+    {
+        "merged": "F:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\ic_play.xml",
+        "source": "F:\\NEW Google Play\\LuxeFm\\app\\build\\generated\\res\\pngs\\release\\drawable-anydpi-v21\\ic_play.xml"
     },
     {
         "merged": "G:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v21\\ic_refresh.xml",
