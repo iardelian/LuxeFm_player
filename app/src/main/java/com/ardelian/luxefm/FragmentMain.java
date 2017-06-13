@@ -66,13 +66,6 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
         return v;
     }
 
-    @Override
-    public void onDestroy() {
-        super.onDestroy();
-        mAudioManager.abandonAudioFocus(this);
-    }
-
-
     private void getFileList() {
 
 
@@ -127,6 +120,7 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
 
                     } catch (Exception e) {
                         e.printStackTrace();
+                        startActivity(noInternetActivity);
                     }
                     return null;
                 }
@@ -140,7 +134,6 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
         } else {
             releaseMedia();
             super.onStop();
-            Log.e("LineError: ", "132");
             startActivity(noInternetActivity);
         }
 
@@ -182,10 +175,10 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
                 alertDialog.setTitle(getString(R.string.downloading))
                         .setMessage(getString(R.string.download) + " " + name + "?")
                         .setNegativeButton(getString(R.string.no), new DialogInterface.OnClickListener() {
-                    public void onClick(DialogInterface dialog, int which) {
-                        dialog.cancel();
-                    }
-                });
+                            public void onClick(DialogInterface dialog, int which) {
+                                dialog.cancel();
+                            }
+                        });
 
                 alertDialog.setPositiveButton(getString(R.string.yes), new DialogInterface.OnClickListener() {
                     public void onClick(DialogInterface dialog, int which) {
@@ -224,80 +217,82 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
 
     private void play(final int id, boolean checked) {
 
-        if (new ConnectivityStatus(getContext()).connectionAccess()) {
+        //if (new ConnectivityStatus(getContext()).connectionAccess()) {
 
-            final String link = data.get(id).getTrackLink();
+        final String link = data.get(id).getTrackLink();
 
-            if (playingSong == id) {
+        if (playingSong == id) {
 
-                if (checked && mediaPlayer.isPlaying()) {
-                    mediaPlayer.pause();
-                    return;
-
-                } else {
-                    mediaPlayer.start();
-                    return;
-                }
+            if (checked && mediaPlayer.isPlaying()) {
+                mediaPlayer.pause();
+                return;
 
             } else {
-                releaseMedia();
+                mediaPlayer.start();
+                return; //?
             }
 
-            mediaPlayer = new MediaPlayer();
-
-            try {
-                mediaPlayer.setDataSource(link);
-            } catch (IOException e) {
-                e.printStackTrace();
-            }
-            mediaPlayer.setAudioStreamType(AudioManager.STREAM_MUSIC);
-
-            showProgressIcon(true);
-            mediaPlayer.setOnPreparedListener(new MediaPlayer.OnPreparedListener() {
-                @Override
-                public void onPrepared(MediaPlayer mp) {
-                    if (loadText.getVisibility() == View.VISIBLE && progressBar.getVisibility() == View.VISIBLE) {
-                        showProgressIcon(false);
-                    }
-                    mediaPlayer.start();
-
-                }
-            });
-
-            mediaPlayer.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
-
-                @Override
-                public void onCompletion(MediaPlayer mp) {
-                    data.get(id).setChecked(false);
-                    try {
-                        if (id + 1 < data.size()) {
-                            data.get(id + 1).setChecked(true);
-                            releaseMedia();
-                            play(id + 1, true);
-                            trackAdapter.notifyDataSetChanged();
-                        }
-                    } catch (IndexOutOfBoundsException e) {
-                        e.printStackTrace();
-                        releaseMedia();
-                    }
-                    trackAdapter.notifyDataSetChanged();
-
-                }
-
-            });
-            try {
-                mediaPlayer.prepareAsync();
-
-            } catch (Exception e) {
-                e.printStackTrace();
-                Toast.makeText(getContext(), getString(R.string.unable_play_song), Toast.LENGTH_SHORT).show();
-            }
         } else {
+            releaseMedia();
+        }
+
+        mediaPlayer = new MediaPlayer();
+
+        try {
+            mediaPlayer.setDataSource(link);
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+        mediaPlayer.setAudioStreamType(AudioManager.STREAM_MUSIC);
+
+        showProgressIcon(true);
+        mediaPlayer.setOnPreparedListener(new MediaPlayer.OnPreparedListener() {
+            @Override
+            public void onPrepared(MediaPlayer mp) {
+                if (loadText.getVisibility() == View.VISIBLE &&
+                        progressBar.getVisibility() == View.VISIBLE) {
+                    showProgressIcon(false);
+                }
+                mediaPlayer.start();
+
+            }
+        });
+
+        mediaPlayer.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
+
+            @Override
+            public void onCompletion(MediaPlayer mp) {
+                data.get(id).setChecked(false);
+                try {
+                    if (id + 1 < data.size()) {
+                        releaseMedia();
+                        data.get(id + 1).setChecked(true);
+                        play(id + 1, true);
+                        trackAdapter.notifyDataSetChanged();
+                    }
+                } catch (IndexOutOfBoundsException e) {
+                    e.printStackTrace();
+                    releaseMedia();
+                }
+                trackAdapter.notifyDataSetChanged();
+
+            }
+
+        });
+        try {
+            mediaPlayer.prepareAsync();
+
+        } catch (Exception e) {
+            e.printStackTrace();
             releaseMedia();
             data.get(id).setChecked(false);
             super.onStop();
-            // sometimes something bad happens here =(
-            startActivity(noInternetActivity);
+            if (new ConnectivityStatus(getContext()).connectionAccess()) {
+                startActivity(noInternetActivity);
+            } else {
+                Toast.makeText(getContext(), getString(R.string.unable_play_song), Toast.LENGTH_SHORT).show();
+            }
+
         }
 
     }
@@ -312,4 +307,15 @@ public class FragmentMain extends Fragment implements Constants, MainHandler.OnH
             }
         }
     }
+
+    public void stopAudioFocus() {
+        mAudioManager.abandonAudioFocus(this);
+    }
+
+    @Override
+    public void onDestroy() {
+        super.onDestroy();
+        stopAudioFocus();
+    }
+
 }

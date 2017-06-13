@@ -22,16 +22,17 @@ public class NoInternetActivity extends AppCompatActivity implements Constants {
         refreshInternet.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
-                if (isNetworkAvailable()){
-                    Intent intent = new Intent(NoInternetActivity.this,MainActivity.class);
+                if (isNetworkAvailable()) {
+                    Intent intent = new Intent(NoInternetActivity.this, MainActivity.class);
                     startActivity(intent);
                     finish();
-                }else{
-                    Toast.makeText(NoInternetActivity.this,getString(R.string.internet_error),Toast.LENGTH_SHORT).show();
+                } else {
+                    Toast.makeText(NoInternetActivity.this, getString(R.string.internet_error), Toast.LENGTH_SHORT).show();
                 }
             }
         });
     }
+
     public boolean isNetworkAvailable() {
         try {
             return (Runtime.getRuntime().exec(PING_GOOGLE).waitFor() == 0);
@@ -43,8 +44,8 @@ public class NoInternetActivity extends AppCompatActivity implements Constants {
 
     @Override
     public void onBackPressed() {
-            super.onBackPressed();
-            finish();
+        super.onBackPressed();
+        finish();
     }
 
 }

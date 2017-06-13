@@ -11,7 +11,7 @@ class ListItem {
         this.trackLink = trackLink;
 
         artist = title.substring(0, title.indexOf(" - "));
-        track = title.substring(title.indexOf(" - ")+3,title.length());
+        track = title.substring(title.indexOf(" - ") + 3, title.length());
     }
 
     String getArtist() {

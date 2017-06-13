@@ -35,17 +35,17 @@ ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:9:5-66
 		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:9:22-64
 application
 ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:12:5-39:19
-MERGED from [com.android.support:design:25.1.1] C:\Users\cokp\.android\build-cache\f77dde227ce6e296ff199b5c6db89faab0fae505\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\cokp\.android\build-cache\989572f9db2f31f26a0e565b9a0fd817550e36e3\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\cokp\.android\build-cache\e9e00f94e7dfac0320bcd7f63bf69b200d64f7cf\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\cokp\.android\build-cache\729f13b6df02bf56b6cd82d10d5223f3f8ebf9dc\output\AndroidManifest.xml:23:5-20
-MERGED from [com.android.support:transition:25.1.1] C:\Users\cokp\.android\build-cache\cd5e5a6e52f4f325d21f6a9aafdd91c3aebdef3b\output\AndroidManifest.xml:22:5-20
-MERGED from [com.android.support:support-v4:25.1.1] C:\Users\cokp\.android\build-cache\e79f90c3185fe7e780ca20d6e0b391b13f3ae9ec\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\cokp\.android\build-cache\871a7da91e11aafa0969a056a6228508fff7d27e\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\cokp\.android\build-cache\fab2bff9714bdbbfffbe24ee9e130b2df6b642f5\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\cokp\.android\build-cache\b08f1a4a5c9ce31657cccdfd2dfa25918a7e9c8b\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\cokp\.android\build-cache\1acde90ba3e969cd5b232ebdcbf88904e3372d2d\output\AndroidManifest.xml:25:5-20
-MERGED from [com.android.support:support-compat:25.1.1] C:\Users\cokp\.android\build-cache\64eab9fcd24e9c742388954c7f691f38102b2ed6\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:design:25.1.1] C:\Users\Admin\.android\build-cache\e0affbbbae0d45677513f86a768f241b3528d487\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Admin\.android\build-cache\a837088a59ed4480cc1d864772125f6b3766c92c\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Admin\.android\build-cache\e68401a4088b116850eea8fa42017e5ea2e420c2\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Admin\.android\build-cache\32600e10b61c2ac0f41ed0c1f8660f1203d1dbc6\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Admin\.android\build-cache\d812cc35a66a2b1bb00b6d68321c21cb4c3c2439\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Admin\.android\build-cache\53c8e9b5384a30cadb06666d10a1877e03e8f3f7\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Admin\.android\build-cache\03b7ed3e2d9feec32ff16697adb67366fa252bad\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Admin\.android\build-cache\7879216d69fa3cbe2218fab09794c6aadc69c64b\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Admin\.android\build-cache\75c312da92fda469281c1bbc623165900b15c5f3\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Admin\.android\build-cache\07a9a1d7ce8c1853fd210ec92ce11e656b61f321\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Admin\.android\build-cache\9bd267f05e4f68215a4f858e4346cf6f5eeac62c\output\AndroidManifest.xml:25:5-20
 	android:label
 		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:15:9-41
 	android:supportsRtl
@@ -94,20 +94,20 @@ ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:34:9-38:20
 		ADDED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml:35:13-66
 uses-sdk
 INJECTED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
-MERGED from [com.android.support:design:25.1.1] C:\Users\cokp\.android\build-cache\f77dde227ce6e296ff199b5c6db89faab0fae505\output\AndroidManifest.xml:21:5-23:62
-MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\cokp\.android\build-cache\989572f9db2f31f26a0e565b9a0fd817550e36e3\output\AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\cokp\.android\build-cache\e9e00f94e7dfac0320bcd7f63bf69b200d64f7cf\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\cokp\.android\build-cache\729f13b6df02bf56b6cd82d10d5223f3f8ebf9dc\output\AndroidManifest.xml:21:5-43
-MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\cokp\.android\build-cache\0c7906b5206045d12eccbf42f36b2db07b26efac\output\AndroidManifest.xml:20:5-43
-MERGED from [com.android.support:transition:25.1.1] C:\Users\cokp\.android\build-cache\cd5e5a6e52f4f325d21f6a9aafdd91c3aebdef3b\output\AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:25.1.1] C:\Users\cokp\.android\build-cache\e79f90c3185fe7e780ca20d6e0b391b13f3ae9ec\output\AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\cokp\.android\build-cache\871a7da91e11aafa0969a056a6228508fff7d27e\output\AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\cokp\.android\build-cache\fab2bff9714bdbbfffbe24ee9e130b2df6b642f5\output\AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\cokp\.android\build-cache\b08f1a4a5c9ce31657cccdfd2dfa25918a7e9c8b\output\AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\cokp\.android\build-cache\1acde90ba3e969cd5b232ebdcbf88904e3372d2d\output\AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-compat:25.1.1] C:\Users\cokp\.android\build-cache\64eab9fcd24e9c742388954c7f691f38102b2ed6\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:design:25.1.1] C:\Users\Admin\.android\build-cache\e0affbbbae0d45677513f86a768f241b3528d487\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:appcompat-v7:25.1.1] C:\Users\Admin\.android\build-cache\a837088a59ed4480cc1d864772125f6b3766c92c\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.1] C:\Users\Admin\.android\build-cache\e68401a4088b116850eea8fa42017e5ea2e420c2\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.1] C:\Users\Admin\.android\build-cache\32600e10b61c2ac0f41ed0c1f8660f1203d1dbc6\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:recyclerview-v7:25.1.1] C:\Users\Admin\.android\build-cache\be2d19f481c3d347c217377bee4129b4b343af9f\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:transition:25.1.1] C:\Users\Admin\.android\build-cache\d812cc35a66a2b1bb00b6d68321c21cb4c3c2439\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:25.1.1] C:\Users\Admin\.android\build-cache\53c8e9b5384a30cadb06666d10a1877e03e8f3f7\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.1] C:\Users\Admin\.android\build-cache\03b7ed3e2d9feec32ff16697adb67366fa252bad\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.1] C:\Users\Admin\.android\build-cache\7879216d69fa3cbe2218fab09794c6aadc69c64b\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.1] C:\Users\Admin\.android\build-cache\75c312da92fda469281c1bbc623165900b15c5f3\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.1] C:\Users\Admin\.android\build-cache\07a9a1d7ce8c1853fd210ec92ce11e656b61f321\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.1] C:\Users\Admin\.android\build-cache\9bd267f05e4f68215a4f858e4346cf6f5eeac62c\output\AndroidManifest.xml:21:5-23:58
 	tools:overrideLibrary
-		ADDED from [com.android.support:design:25.1.1] C:\Users\cokp\.android\build-cache\f77dde227ce6e296ff199b5c6db89faab0fae505\output\AndroidManifest.xml:23:9-59
+		ADDED from [com.android.support:design:25.1.1] C:\Users\Admin\.android\build-cache\e0affbbbae0d45677513f86a768f241b3528d487\output\AndroidManifest.xml:23:9-59
 	android:targetSdkVersion
 		INJECTED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml
 		INJECTED from F:\NEW Google Play\LuxeFm\app\src\main\AndroidManifest.xml

@@ -7,7 +7,8 @@ class MainHandler extends Handler implements Constants {
 
     private OnHandleListener listener;
 
-    MainHandler() {}
+    MainHandler() {
+    }
 
     interface OnHandleListener {
         void onHandleString(String title, String link);
@@ -16,6 +17,7 @@ class MainHandler extends Handler implements Constants {
     void setOnHandleListener(OnHandleListener l) {
         this.listener = l;
     }
+
     @Override
     public void handleMessage(Message msg) {
         int id = msg.getData().getInt(EXTRA_ID);

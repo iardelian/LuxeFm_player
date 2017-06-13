@@ -4,7 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 
-public class SplashActivity extends AppCompatActivity implements Constants{
+public class SplashActivity extends AppCompatActivity implements Constants {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -20,7 +20,7 @@ public class SplashActivity extends AppCompatActivity implements Constants{
                 e.printStackTrace();
             }
             startActivity(intentMain);
-        }else{
+        } else {
             startActivity(intentNoInternet);
         }
         finish();

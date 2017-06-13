@@ -34,12 +34,11 @@ public class MainActivity extends AppCompatActivity implements Constants {
     }
 
 
-
     @Override
     public void onBackPressed() {
         if (!doubleBackToExitPressedOnce) {
             this.doubleBackToExitPressedOnce = true;
-            Toast.makeText(this,getResources().getString(R.string.exit_dialog),
+            Toast.makeText(this, getResources().getString(R.string.exit_dialog),
                     Toast.LENGTH_SHORT).show();
 
             new Handler().postDelayed(new Runnable() {
@@ -52,6 +51,7 @@ public class MainActivity extends AppCompatActivity implements Constants {
         } else {
             fragmentMain = (FragmentMain) getSupportFragmentManager().findFragmentById(R.id.container);
             fragmentMain.releaseMedia();
+            fragmentMain.stopAudioFocus();
             super.onBackPressed();
         }
     }
