@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Tue Jun 13 12:20:38 EEST 2017
+#Tue Jun 13 12:29:30 EEST 2017
 20.base=F\:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\resources-release.ap_
 143.base=F\:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\resources-release.ap_
 493.base=F\:\\NEW Google Play\\LuxeFm\\app\\build\\intermediates\\res\\resources-release.ap_

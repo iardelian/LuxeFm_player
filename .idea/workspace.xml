@@ -21,215 +21,37 @@
     <option name="TOOL_WINDOW_CONFIGURED_FILTER" value="No Filters" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0578de75-4afa-43d8-8bd6-70b0800700b9" name="Default" comment="Fixed audiofocus and internetCheking bugs">
+    <list default="true" id="0578de75-4afa-43d8-8bd6-70b0800700b9" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileHashes.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/fileSnapshots.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/taskArtifacts/taskArtifacts.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.bin" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileDebugJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileReleaseJavaWithJavac/localClassSetAnalysis/localClassSetAnalysis.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.bin" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" afterPath="$PROJECT_DIR$/.gradle/3.3/tasks/_app_compileReleaseJavaWithJavac/localJarClasspathSnapshot/localJarClasspathSnapshot.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-hdpi/ic_file_download.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-hdpi/ic_file_download.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-hdpi/ic_pause.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-hdpi/ic_pause.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-hdpi/ic_play.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-hdpi/ic_play.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-hdpi/ic_refresh.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-hdpi/ic_refresh.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-hdpi/ic_search.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-hdpi/ic_search.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-ldpi/ic_file_download.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-ldpi/ic_file_download.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-ldpi/ic_pause.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-ldpi/ic_pause.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-ldpi/ic_play.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-ldpi/ic_play.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-ldpi/ic_refresh.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-ldpi/ic_refresh.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-ldpi/ic_search.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-ldpi/ic_search.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-mdpi/ic_file_download.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-mdpi/ic_file_download.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-mdpi/ic_play.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-mdpi/ic_play.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-mdpi/ic_refresh.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-mdpi/ic_refresh.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-mdpi/ic_search.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-mdpi/ic_search.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-xhdpi/ic_file_download.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-xhdpi/ic_file_download.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-xhdpi/ic_play.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-xhdpi/ic_play.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-xhdpi/ic_refresh.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-xhdpi/ic_refresh.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-xhdpi/ic_search.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-xhdpi/ic_search.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_file_download.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_file_download.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_play.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_play.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_refresh.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_refresh.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_search.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-xxhdpi/ic_search.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_file_download.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_file_download.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_play.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_play.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_refresh.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_refresh.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_search.png" afterPath="$PROJECT_DIR$/app/build/generated/res/pngs/release/drawable-xxxhdpi/ic_search.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/ardelian/luxefm/FragmentMain$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/ardelian/luxefm/FragmentMain$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/ardelian/luxefm/FragmentMain$2.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/ardelian/luxefm/FragmentMain$2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/ardelian/luxefm/FragmentMain$3.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/ardelian/luxefm/FragmentMain$3.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/ardelian/luxefm/FragmentMain$4.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/ardelian/luxefm/FragmentMain$4.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/ardelian/luxefm/FragmentMain$5.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/ardelian/luxefm/FragmentMain$5.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/ardelian/luxefm/FragmentMain.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/ardelian/luxefm/FragmentMain.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/ardelian/luxefm/MainActivity$1.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/ardelian/luxefm/MainActivity$1.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/ardelian/luxefm/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/ardelian/luxefm/MainActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/ardelian/luxefm/MainHandler.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/ardelian/luxefm/MainHandler.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/ardelian/luxefm/NoInternetActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/ardelian/luxefm/NoInternetActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/ic_file_download.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/ic_file_download.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/ic_pause.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/ic_pause.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/ic_play.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/ic_play.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/ic_refresh.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/ic_refresh.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/ic_search.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-hdpi/ic_search.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-ldpi/ic_file_download.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-ldpi/ic_file_download.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-ldpi/ic_pause.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-ldpi/ic_pause.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-ldpi/ic_play.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-ldpi/ic_play.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-ldpi/ic_refresh.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-ldpi/ic_refresh.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-ldpi/ic_search.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-ldpi/ic_search.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-mdpi/ic_file_download.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-mdpi/ic_file_download.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-mdpi/ic_play.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-mdpi/ic_play.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-mdpi/ic_refresh.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-mdpi/ic_refresh.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-mdpi/ic_search.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-mdpi/ic_search.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_file_download.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_file_download.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_play.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_play.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_refresh.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_refresh.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_search.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xhdpi/ic_search.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xxhdpi/ic_file_download.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xxhdpi/ic_file_download.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xxhdpi/ic_play.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xxhdpi/ic_play.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xxhdpi/ic_refresh.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xxhdpi/ic_refresh.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xxhdpi/ic_search.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xxhdpi/ic_search.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xxxhdpi/ic_file_download.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xxxhdpi/ic_file_download.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xxxhdpi/ic_play.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xxxhdpi/ic_play.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xxxhdpi/ic_refresh.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xxxhdpi/ic_refresh.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xxxhdpi/ic_search.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/release/drawable-xxxhdpi/ic_search.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ardelian/luxefm/BuildConfig.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ardelian/luxefm/BuildConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ardelian/luxefm/FragmentMain.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ardelian/luxefm/FragmentMain.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ardelian/luxefm/MainActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/ardelian/luxefm/MainActivity.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/ardelian/luxefm/BuildConfig.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/release/com/ardelian/luxefm/BuildConfig.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-release.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-release.ap_" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/debug/folders/1000/1f/main/classes.dex" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex" afterPath="$PROJECT_DIR$/app/build/intermediates/transforms/dex/release/folders/1000/1f/main/classes.dex" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" afterPath="$PROJECT_DIR$/app/build/outputs/apk/app-debug.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-af.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-af.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-am.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-am.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ar.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ar.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-az-rAZ.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-az-rAZ.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-b+sr+Latn.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-b+sr+Latn.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-be-rBY.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-be-rBY.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-bg.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-bg.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-bn-rBD.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-bn-rBD.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-bs-rBA.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-bs-rBA.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ca.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ca.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-cs.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-cs.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-da.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-da.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-de.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-de.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-el.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-el.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-en-rAU.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-en-rAU.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-en-rGB.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-en-rGB.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-en-rIN.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-en-rIN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-es-rUS.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-es-rUS.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-es.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-es.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-et-rEE.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-et-rEE.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-eu-rES.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-eu-rES.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-fa.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-fa.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-fi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-fi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-fr-rCA.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-fr-rCA.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-fr.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-fr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-gl-rES.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-gl-rES.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-gu-rIN.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-gu-rIN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-h720dp-v13.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-h720dp-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-hdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-hdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-hi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-hi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-hr.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-hr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-hu.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-hu.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-hy-rAM.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-hy-rAM.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-in.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-in.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-is-rIS.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-is-rIS.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-it.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-it.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-iw.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-iw.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ja.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ja.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ka-rGE.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ka-rGE.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-kk-rKZ.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-kk-rKZ.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-km-rKH.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-km-rKH.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-kn-rIN.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-kn-rIN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ko.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ko.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ky-rKG.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ky-rKG.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-land.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-land.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-large-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-large-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ldltr-v21.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ldltr-v21.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-lo-rLA.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-lo-rLA.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-lt.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-lt.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-lv.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-lv.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-mk-rMK.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-mk-rMK.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ml-rIN.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ml-rIN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-mn-rMN.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-mn-rMN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-mr-rIN.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-mr-rIN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ms-rMY.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ms-rMY.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-my-rMM.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-my-rMM.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-nb.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-nb.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ne-rNP.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ne-rNP.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-night-v8.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-night-v8.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-nl.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-nl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-pa-rIN.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-pa-rIN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-pl.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-pl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-port.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-port.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-pt-rBR.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-pt-rBR.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-pt-rPT.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-pt-rPT.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-pt.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-pt.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ro.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ro.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ru.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ru.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-si-rLK.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-si-rLK.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-sk.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-sk.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-sl.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-sl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-sq-rAL.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-sq-rAL.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-sr.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-sr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-sv.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-sv.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-sw.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-sw.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-sw600dp-v13.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-sw600dp-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ta-rIN.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ta-rIN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-te-rIN.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-te-rIN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-th.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-th.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-tl.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-tl.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-tr.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-tr.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-uk.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-uk.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ur-rPK.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-ur-rPK.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-uz-rUZ.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-uz-rUZ.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-v11.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-v11.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-v12.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-v12.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-v13.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-v14.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-v14.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-v16.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-v16.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-v17.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-v17.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-v18.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-v18.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-v21.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-v21.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-v22.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-v22.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-v23.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-v23.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-v24.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-v24.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-v25.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-v25.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-vi.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-vi.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-xlarge-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-xlarge-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-zh-rCN.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-zh-rCN.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-zh-rHK.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-zh-rHK.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-zh-rTW.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-zh-rTW.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-zu.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values-zu.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/anim-v21.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/anim-v21.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/anim.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/anim.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/animator-v21.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/animator-v21.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/color-v11.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/color-v11.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/color-v23.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/color-v23.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/color.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/color.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-anydpi-v21.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-anydpi-v21.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-hdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-ldrtl-hdpi-v17.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-ldrtl-hdpi-v17.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-ldrtl-mdpi-v17.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-ldrtl-mdpi-v17.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-ldrtl-xhdpi-v17.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-ldrtl-xhdpi-v17.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-ldrtl-xxhdpi-v17.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-ldrtl-xxhdpi-v17.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-ldrtl-xxxhdpi-v17.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-ldrtl-xxxhdpi-v17.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-mdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-v21.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-v21.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-v23.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-v23.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-xhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-xhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-xxhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-xxhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-xxxhdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable-xxxhdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/drawable.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/layout-sw600dp-v13.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/layout-sw600dp-v13.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/layout-v11.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/layout-v11.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/layout-v16.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/layout-v16.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/layout-v21.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/layout-v21.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/layout.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/release/single/layout.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseAssets/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/compile-file-map.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeReleaseResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build.gradle" afterPath="$PROJECT_DIR$/app/build.gradle" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/androidTest/debug/com/ardelian/luxefm/test/BuildConfig.java" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/androidTest/debug/com/ardelian/luxefm/test/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/ardelian/luxefm/BuildConfig.java" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/debug/com/ardelian/luxefm/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/generated/source/buildConfig/release/com/ardelian/luxefm/BuildConfig.java" afterPath="$PROJECT_DIR$/app/build/generated/source/buildConfig/release/com/ardelian/luxefm/BuildConfig.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageDebug/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageRelease/dex-renamer-state.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageRelease/dex-renamer-state.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/packageRelease/file-input-save-data.txt" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/packageRelease/file-input-save-data.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-release-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-release-report.txt" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/release/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/release/AndroidManifest.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/reports/lint-results-release-fatal.html" afterPath="$PROJECT_DIR$/app/build/reports/lint-results-release-fatal.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/src/main/java/com/ardelian/luxefm/MainActivity.java" afterPath="$PROJECT_DIR$/app/src/main/java/com/ardelian/luxefm/MainActivity.java" />
     </list>
     <ignored path="LuxFm.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -261,10 +83,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="FragmentMain.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="FragmentMain.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ardelian/luxefm/FragmentMain.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="197">
+            <state relative-caret-position="1574">
               <caret line="296" column="0" selection-start-line="296" selection-start-column="0" selection-end-line="296" selection-end-column="0" />
               <folding>
                 <element signature="e#10003#10039#0" expanded="true" />
@@ -285,24 +107,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AndroidManifest.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
-          <provider editor-type-id="android-manifest">
-            <state />
-          </provider>
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="MainActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ardelian/luxefm/MainActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="155">
-              <caret line="38" column="43" selection-start-line="0" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
+            <state relative-caret-position="376">
+              <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -334,8 +143,8 @@
       <file leaf-file-name="SplashActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ardelian/luxefm/SplashActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="238">
-              <caret line="16" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
+            <state relative-caret-position="221">
+              <caret line="15" column="81" selection-start-line="15" selection-start-column="81" selection-end-line="15" selection-end-column="81" />
               <folding />
             </state>
           </provider>
@@ -356,6 +165,16 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="187">
               <caret line="11" column="4" selection-start-line="0" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/build.gradle">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="170">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -1901,7 +1720,7 @@
         <entry key="D:\AndroidProjects\LuxFm" value="4463273138000" />
         <entry key="F:\LuxFm" value="4465508754000" />
         <entry key="F:\NEW Google Play\LuxFm" value="4468437206000" />
-        <entry key="F:\NEW Google Play\LuxeFm" value="4470758744000" />
+        <entry key="F:\NEW Google Play\LuxeFm" value="4475089322000" />
         <entry key="G:\NEW Google Play\LuxeFm" value="4469773458000" />
       </map>
     </option>
@@ -2098,18 +1917,18 @@
         <option value="$PROJECT_DIR$/app/src/main/java/com/ardelian/luxefm/CallReceiver.java" />
         <option value="$PROJECT_DIR$/app/src/main/res/values/strings.xml" />
         <option value="$PROJECT_DIR$/app/src/main/res/values-ru/strings.xml" />
-        <option value="$PROJECT_DIR$/app/build.gradle" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/ardelian/luxefm/PhoneStateReceiver.java" />
         <option value="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/ardelian/luxefm/Constants.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/ardelian/luxefm/ConnectivityStatus.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/ardelian/luxefm/TrackAdapter.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/ardelian/luxefm/SplashActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/ardelian/luxefm/NoInternetActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/ardelian/luxefm/MainHandler.java" />
-        <option value="$PROJECT_DIR$/app/src/main/java/com/ardelian/luxefm/MainActivity.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/ardelian/luxefm/ListItem.java" />
         <option value="$PROJECT_DIR$/app/src/main/java/com/ardelian/luxefm/FragmentMain.java" />
+        <option value="$PROJECT_DIR$/app/build.gradle" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ardelian/luxefm/SplashActivity.java" />
+        <option value="$PROJECT_DIR$/app/src/main/java/com/ardelian/luxefm/MainActivity.java" />
       </list>
     </option>
   </component>
@@ -2669,7 +2488,14 @@
       <option name="project" value="LOCAL" />
       <updated>1497345533649</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Fixed audiofocus and internetCheking bugs">
+      <created>1497345713240</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1497345713240</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TodoView">
@@ -2683,7 +2509,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="744" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32991013" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3270869" sideWeight="0.4969743" order="12" side_tool="false" content_ui="tabs" />
@@ -2691,9 +2517,9 @@
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.6521181" sideWeight="0.5080906" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.093696766" sideWeight="0.49190938" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Android Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.50425893" sideWeight="0.49190938" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32862645" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.85178876" sideWeight="0.48786408" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.85178876" sideWeight="0.48786408" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.5758092" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Captures" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -2999,14 +2825,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/build.gradle">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="170">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ardelian/luxefm/PhoneStateReceiver.java" />
     <entry file="file://$PROJECT_DIR$/app/src/main/AndroidManifest.xml">
       <provider editor-type-id="android-manifest">
@@ -3027,14 +2845,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ardelian/luxefm/SplashActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="238">
-          <caret line="16" column="17" selection-start-line="0" selection-start-column="0" selection-end-line="27" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ardelian/luxefm/NoInternetActivity.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="223">
@@ -3051,14 +2861,6 @@
             <element signature="e#355#356#0" expanded="true" />
             <element signature="e#388#389#0" expanded="true" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ardelian/luxefm/MainActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="155">
-          <caret line="38" column="43" selection-start-line="0" selection-start-column="0" selection-end-line="60" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -3086,15 +2888,39 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/app/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ardelian/luxefm/FragmentMain.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="197">
+        <state relative-caret-position="1574">
           <caret line="296" column="0" selection-start-line="296" selection-start-column="0" selection-end-line="296" selection-end-column="0" />
           <folding>
             <element signature="e#10003#10039#0" expanded="true" />
             <element signature="e#10400#10401#0" expanded="true" />
             <element signature="e#10453#10454#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ardelian/luxefm/SplashActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="15" column="81" selection-start-line="15" selection-start-column="81" selection-end-line="15" selection-end-column="81" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/ardelian/luxefm/MainActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="376">
+          <caret line="55" column="30" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+          <folding />
         </state>
       </provider>
     </entry>

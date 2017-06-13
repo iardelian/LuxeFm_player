@@ -53,6 +53,7 @@ public class MainActivity extends AppCompatActivity implements Constants {
             fragmentMain.releaseMedia();
             fragmentMain.stopAudioFocus();
             super.onBackPressed();
+            super.onDestroy();
         }
     }
 
